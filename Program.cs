@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 //Add DbContext to acess PostgreSQL.
-var connectionString = builder.Configuration.GetConnectionString("Azure");
+var connectionString = builder.Configuration.GetConnectionString("PostgerSQL");
 builder.Services.AddDbContext<ApiUniversidadeContext>(options=> options.UseNpgsql(connectionString));
 
 // Add services to the container.
