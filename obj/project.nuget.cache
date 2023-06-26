@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZegK/iDIYfEj/Y1LEKc7dsrDmL6fDv1lqdO6QkIPKm2fHnKJnO301qvp3pscde2g1kiQ4eM9zevlgap98aEgpA==",
+  "dgSpecHash": "YBg8TfK6DR0bFsNiGRsLYQlRKlv3FwvwjQrdaJNfWWFzPkpX3ITCHDArxoxYe6EA8Nk0eO0ukYoKhr037px0nQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\conta\\OneDrive\\Anderson\\ifrn\\topicos avançado II\\anderson\\apiUniversidade\\apiUniversidade.csproj",
+  "projectFilePath": "C:\\Users\\conta\\OneDrive\\Anderson\\ifrn\\topicos avançado II\\git\\apiuniversidade\\apiUniversidade.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\conta\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
     "C:\\Users\\conta\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
